@@ -6,4 +6,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0520-detect-capital](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0520-detect-capital) |
+## Array
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
