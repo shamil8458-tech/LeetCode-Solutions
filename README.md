@@ -23,9 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
