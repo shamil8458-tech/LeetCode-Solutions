@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [3467-transform-array-by-parity](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [3467-transform-array-by-parity](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -33,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
