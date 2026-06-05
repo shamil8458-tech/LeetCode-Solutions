@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0520-detect-capital) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
