@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0412-fizz-buzz](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0520-detect-capital) |
+| [0709-to-lower-case](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Array
