@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [3467-transform-array-by-parity](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [3467-transform-array-by-parity](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Counting
 |  |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0977-squares-of-a-sorted-array](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
