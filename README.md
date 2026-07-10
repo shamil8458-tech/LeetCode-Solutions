@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3894-traffic-signal-color](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Array
 |  |
 | ------- |
@@ -40,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [3024-type-of-triangle](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
+| [3894-traffic-signal-color](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [3894-traffic-signal-color](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Binary Search
 |  |
 | ------- |
