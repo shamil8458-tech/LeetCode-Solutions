@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1929-concatenation-of-array](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3024-type-of-triangle](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
 ## Sorting
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1929-concatenation-of-array](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3894-traffic-signal-color](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Binary Search
 |  |
