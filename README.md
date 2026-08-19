@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [2235-add-two-integers](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/2235-add-two-integers) |
 | [3024-type-of-triangle](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
@@ -91,8 +92,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
