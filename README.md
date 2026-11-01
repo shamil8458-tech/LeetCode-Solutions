@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2000-reverse-prefix-of-word](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3136-valid-word](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3136-valid-word) |
 | [3894-traffic-signal-color](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3894-traffic-signal-color) |
 ## Array
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0344-reverse-string](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0342-power-of-four) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
