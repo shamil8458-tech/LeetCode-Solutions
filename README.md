@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [3136-valid-word](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3136-valid-word) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1816-truncate-sentence](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1816-truncate-sentence) |
 | [1929-concatenation-of-array](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [3024-type-of-triangle](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3024-type-of-triangle) |
 | [3467-transform-array-by-parity](https://github.com/shamil8458-tech/LeetCode-Solutions/tree/master/3467-transform-array-by-parity) |
